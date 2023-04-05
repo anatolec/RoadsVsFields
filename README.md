@@ -23,7 +23,6 @@ This project aims to develop a two-class classifier for distinguishing between "
 4. Results Evaluation
 
 
-
 ### Exploration
 
 First, I conducted a brief exploration using a Jupyter notebook (see `Image exploration.ipynb`).
